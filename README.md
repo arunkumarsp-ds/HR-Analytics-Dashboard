@@ -1,1 +1,1 @@
-To check my HR Analytics Dashboard please vist my tableau profile or this [link](https://public.tableau.com/views/HRANALYTICSDASHBOARD_16803419028570/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+To check my HR Analytics Dashboard please vist my tableau profile or click this [link](https://public.tableau.com/views/HRANALYTICSDASHBOARD_16803419028570/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
