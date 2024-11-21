@@ -1,8 +1,8 @@
 # **HR Analytics Dashboard using Tableau**  
 
 # **PROJECT LINKS**
-## 💻 To check my HR Analytics Dashboard please vist my tableau profile or click this [link](https://public.tableau.com/views/HRANALYTICSDASHBOARD_16803419028570/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-## 💻 Here is the [Snapshot](https://github.com/arunkumarsp-ds/HR-Analytics-Dashboard/blob/main/Dashboard%202.png) of my HR Analytics Dashboard
+- 💻 To check my HR Analytics Dashboard please vist my tableau profile or click this [link](https://public.tableau.com/views/HRANALYTICSDASHBOARD_16803419028570/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+- 💻 Here is the [Snapshot](https://github.com/arunkumarsp-ds/HR-Analytics-Dashboard/blob/main/Dashboard%202.png) of my HR Analytics Dashboard
 
 This project involves creating a dynamic and interactive HR Analytics Dashboard using Tableau to analyze and visualize employee attrition. The dashboard provides key insights that can help reduce the attrition rate by evaluating various metrics.
 
